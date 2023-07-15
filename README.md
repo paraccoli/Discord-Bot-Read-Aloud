@@ -1,6 +1,6 @@
 **THIS IS A SAMPLE CODE FOR DISCORD BOT READ ALOUD　※ IT CAN BE USE JAPANESE ONLY**
 
-〖JP〗
+【日本語】
 
 ご覧いただきありがとうございます。
 Discordボイスチャンネルでテキストを読み上げるBotです。
@@ -103,3 +103,98 @@ Botが起動し、Discordサーバーにオンライン状態として表示さ�
 Botを使用してDiscordサーバーでコマンドを試してみてください。Botが正常に動作している場合、コマンドに応じた処理が実行されます。
 
 以上で、Botの導入が完了しました。
+
+
+
+【English】
+
+Thank you for checking this out. This is a Discord bot that reads text aloud in voice channels. Below are the main functionalities of the bot.
+
+**/name_hello command:**
+Greets you by calling your name.
+Usage: /name_hello [name]
+
+**/hello command:**
+Displays a message explaining how to use the bot.
+
+**/join command:**
+Connects to a voice channel.
+
+**/leave command:**
+Disconnects from the voice channel.
+
+**/say command:**
+Reads the input text aloud.
+Usage: /say [text]
+
+**/dictionary command:**
+Registers a word in the dictionary.
+Usage: /dictionary [word] [reading]
+
+**/dictionary_list command:**
+Displays a list of words registered in the dictionary.
+
+**/member_list command:**
+Displays a list of members in the voice channel.
+
+/***Installation Guide***/
+
+Please follow the steps below to install this bot.
+
+**1. Install Required Software**
+
+First, install the following software:
+
+Python: Required to run the Discord bot.
+pip: Package management tool for Python.
+
+**2. Download the Program**
+
+Download the program from GitHub using the following steps:
+
+1. Create a new repository on GitHub.
+2. Navigate to the repository and click the "Code" button.
+3. Select "Download ZIP" to download the program as a ZIP file.
+4. Extract the downloaded ZIP file and save the program folder in the desired location.
+
+**3. Install Required Packages**
+
+Open the command prompt or terminal and execute the following command to install the required packages:
+
+```bash
+pip install discord.py gtts pyttsx3 python-dotenv
+```
+
+**4. Create a Discord Bot and Obtain Token**
+
+Create a bot on the Discord Developer Portal and obtain the bot token using the following steps:
+
+1. Access the Discord Developer Portal and login.
+2. Click "New Application" to create a new application.
+3. In the created application's page, select "Bot" from the left menu and click the "Add Bot" button.
+4. Configure the bot and obtain the token.
+
+**5. Set Environment Variables**
+
+Create a file named .env in the program folder and add the following content:
+
+```makefile
+TOKEN=your_token_here
+```
+
+Set your bot token obtained from the previous step as the value for TOKEN.
+
+
+**6. Start the Bot**
+
+Navigate to the program folder using the command prompt or terminal and execute the following command:
+
+```bash
+python program_filename.py
+```
+
+The bot will start and appear online on your Discord server.
+
+Test the bot by using the commands on your Discord server. If the bot is functioning correctly, it will execute the appropriate actions based on the commands.
+
+That's it! The installation of the bot is now complete.
