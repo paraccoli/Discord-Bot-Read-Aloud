@@ -200,10 +200,16 @@ python program_filename.py
 ```
 
 
-## 作成者
-
 The bot will start and appear online on your Discord server.
 
 Test the bot by using the commands on your Discord server. If the bot is functioning correctly, it will execute the appropriate actions based on the commands.
 
 That's it! The installation of the bot is now complete.
+
+
+## 作成者
+
+- 作成者: Paraccoli
+- GitHub: (https://github.com/Paraccoli)
+- Twitter: (https://twitter.com/Paraccoli)
+
