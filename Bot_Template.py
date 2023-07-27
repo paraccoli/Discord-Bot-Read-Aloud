@@ -40,7 +40,7 @@ async def name_hello(ctx, name):
 #使い方の説明
 @client.slash_command(description="このコマンドはこのBotの使い方を説明します！\n使用方法：/hello")
 async def hello(ctx):
-    embed = discord.Embed(title="初音ミクの読み上げボットです！", description="下記のコマンドを試してみてね！", color=discord.Color.green())
+    embed = discord.Embed(title="読み上げボットです！", description="下記のコマンドを試してみてね！", color=discord.Color.green())
     embed.add_field(name="/join", value="ボイスチャンネルに接続するよ！", inline=False)
     embed.add_field(name="/leave", value="ボイスチャンネルを切断するよ！", inline=False)
     embed.add_field(name="/say", value="入力したテキストを読み上げるよ！\n使用方法：/say [テキスト] [言語コード（省略可）]", inline=False)
