@@ -27,7 +27,7 @@ client = commands.Bot(command_prefix='/')
 async def on_ready():
     print("on_ready")
     # play Project DIVA
-    await client.change_presence(activity=discord.Game("Project DIVA"))
+    await client.change_presence(activity=discord.Game("SampleGame"))
 
 
 #名前を呼んで挨拶
