@@ -143,7 +143,7 @@ Displays a list of words registered in the dictionary.
 **/member_list command:**
 Displays a list of members in the voice channel.
 
-## /***Installation Guide***/
+## **Installation Guide**
 
 Please follow the steps below to install this bot.
 
