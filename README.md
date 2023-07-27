@@ -207,7 +207,7 @@ Test the bot by using the commands on your Discord server. If the bot is functio
 That's it! The installation of the bot is now complete.
 
 
-## 作成者
+## 作成者 Bot developer
 
 - 作成者: Paraccoli
 - GitHub: (https://github.com/Paraccoli)
