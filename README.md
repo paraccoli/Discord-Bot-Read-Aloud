@@ -1,6 +1,6 @@
 **THIS IS A SAMPLE CODE FOR DISCORD BOT READ ALOUD　※ IT CAN BE USE JAPANESE ONLY**
 
-【日本語】
+## 【日本語】
 
 ご覧いただきありがとうございます。
 Discordボイスチャンネルでテキストを読み上げるBotです。
@@ -40,7 +40,7 @@ pyttsx3はGoogleのText-to-Speech APIに依存せず、ローカルで動作す�
     ボイスチャンネル内のメンバー一覧を表示します。
 
 
- **導入方法**
+ ## **導入方法**
 
 以下の手順に従って、このBotを導入してください。
 
@@ -112,7 +112,7 @@ Botを使用してDiscordサーバーでコマンドを試してみてくださ�
 
 
 
-【English】
+## 【English】
 
 Thank you for checking this out. This is a Discord bot that reads text aloud in voice channels. Below are the main functionalities of the bot.
 
@@ -143,7 +143,7 @@ Displays a list of words registered in the dictionary.
 **/member_list command:**
 Displays a list of members in the voice channel.
 
-/***Installation Guide***/
+## /***Installation Guide***/
 
 Please follow the steps below to install this bot.
 
@@ -198,6 +198,9 @@ Navigate to the program folder using the command prompt or terminal and execute 
 ```bash
 python program_filename.py
 ```
+
+
+## 作成者
 
 The bot will start and appear online on your Discord server.
 
