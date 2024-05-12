@@ -48,7 +48,7 @@ pyttsx3はGoogleのText-to-Speech APIに依存せず、ローカルで動作す�
 
 まず、以下のソフトウェアをインストールしてください。
 
-・Python: Discord Botを実行するために必要です。]
+・Python: Discord Botを実行するために必要です。
 
 ・pip: Pythonパッケージの管理ツールです。
 
