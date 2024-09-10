@@ -209,6 +209,6 @@ That's it! The installation of the bot is now complete.
 
 ## 作成者 Bot developer
 
-- 作成者: xM1guel
-- GitHub: (https://github.com/xM1guel)
+- 作成者: Paraccoli
+- GitHub: (https://github.com/paraccoli)
 
