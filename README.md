@@ -8,7 +8,7 @@ Discordボイスチャンネルでテキストを読み上げるBotです。
 pyttsx3を使用しています。
 
 pyttsx3はPythonのテキスト読み上げエンジンであり、ローカルの音声合成エンジンを使用してテキストを音声に変換します。
-pyttsx3はGoogleのText-to-Speech APIに依存せず、ローカルで動作するため、インターネット接続が不要です。
+pyttsx3はGoogleのText-to-Speech APIに依存せず、ローカルで動作するため快適です。
 
 以下にBotの主な機能を説明します。
 
